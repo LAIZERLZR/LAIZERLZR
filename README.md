@@ -2,6 +2,20 @@
 
 ## Hello! I am a beginner JavaScript developer.
 
+### About me
+
+Привествую вас на моем личном портфолио GitHub'а!
+Я являюсь начинающим Junior JavaScript разработчиком, 
+
+
+Занятость: Полная
+Грофик работы: Полный день
+Желаемая зарплата: 800-900$
+Элетронная почта: laizer.applez@gmail.com
+Телефон: +7(999)-236-95-06
+### 
+
+
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript-090909&logoColor=24CDE7)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React-090909&logoColor=24CDE7)
