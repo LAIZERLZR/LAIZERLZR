@@ -1,10 +1,10 @@
 [![Header](https://github.com/LAIZERLZR/LAIZERLZR/blob/main/LAIZERLZR/assets/Magomed%20Zurabov.png)](https://github.com/LAIZERLZR?tab=repositories)  
 
 
-### About me
+## About me
 
-## Привествую вас на моем личном портфолио GitHub'а!
-## Я являюсь начинающим Junior JavaScript разработчиком.
+# Привествую вас на моем личном портфолио GitHub'а!
+# Я являюсь начинающим Junior JavaScript разработчиком.
 
 ### 
 
