@@ -32,5 +32,6 @@
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram-090909&logoColor=24CDE7)](https://t.me/ZurabovMagomed)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=Telegram-090909&logoColor=24CDE7)](https://vk.com/mdaaa2)
 
 
