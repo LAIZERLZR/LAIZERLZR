@@ -1,6 +1,5 @@
 [![Header](https://github.com/LAIZERLZR/LAIZERLZR/blob/main/LAIZERLZR/assets/Magomed%20Zurabov.png)](https://github.com/LAIZERLZR?tab=repositories)  
 
-## Hello! I am a beginner JavaScript developer.
 
 ### About me
 
